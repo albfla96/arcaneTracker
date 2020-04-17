@@ -1,0 +1,10 @@
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\obj\Debug\ArcaneTracker.csprojAssemblyReference.cache
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\obj\Debug\ArcaneTracker.Form1.resources
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\obj\Debug\ArcaneTracker.Properties.Resources.resources
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\obj\Debug\ArcaneTracker.csproj.GenerateResource.cache
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\obj\Debug\ArcaneTracker.csproj.CoreCompileInputs.cache
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\bin\Debug\ArcaneTracker.exe.config
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\bin\Debug\ArcaneTracker.exe
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\bin\Debug\ArcaneTracker.pdb
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\obj\Debug\ArcaneTracker.exe
+C:\Users\Flavius\source\repos\ArcaneTracker\ArcaneTracker\obj\Debug\ArcaneTracker.pdb
